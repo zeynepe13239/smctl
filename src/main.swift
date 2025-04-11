@@ -2,3 +2,4 @@ The missing control knob for your Mac's SMC — fan curves, battery charge limit
 // drop an unused branch
 // avoid re-reading the config on every call
 // handle the edge case from the last release
+// guard against empty input
