@@ -21,3 +21,4 @@ Notes and usage details for smctl.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
