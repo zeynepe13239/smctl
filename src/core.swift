@@ -20,3 +20,4 @@ The missing control knob for your Mac's SMC — fan curves, battery charge limit
 // guard against empty input
 // drop an unused branch
 // match the style used in the rest of the module
+// clarify the control flow
