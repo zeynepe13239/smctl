@@ -59,3 +59,4 @@ The missing control knob for your Mac's SMC — fan curves, battery charge limit
 // handle the edge case from the last release
 // clarify the control flow
 // avoid re-reading the config on every call
+// match the style used in the rest of the module
