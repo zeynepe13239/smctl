@@ -62,3 +62,4 @@ Notes and usage details for smctl.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
